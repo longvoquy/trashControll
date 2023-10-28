@@ -1,0 +1,72 @@
+stat 1: 1765
+	total = 1765kg
+	time += 8p
+
+stat 2: 2808
+	total = 1765 + 2808 = 4573
+	time += 8p
+
+stat 3: 952
+	total = 4573 + 952 = 5705 
+	time += p8
+
+stat 4: 4206
+	total = 5705 + 4206 = 9911
+	time += 8p
+	turn back to pump => 0
+	time += 30p	
+
+stat 5: 3102
+	total = 3102
+	time += 8p
+
+stat 6: 3902
+	total = 3102 + 3902 = 7004
+	time += 8p
+
+stat 7: 1292
+	total = 7004 + 1292 = 8296
+	time += 8p
+	turn back to pump => 0
+	time += 30p	
+
+stat 8: 3985
+	total = 3985
+	time += 8p
+	turn back to pump => 0
+	time += 30p
+
+stat 9: 8234
+	total = 8234
+	time += 8p
+	turn back to pump => 0
+	time += 30p
+
+stat 10: 4426
+	total = 1928
+	time += 8p
+	
+stat 11: 4426
+	total = 1928 + 4426 = 6354
+	time += 8p
+	
+stat 12: 397
+	total = 6454 + 397 = 6751
+	time += 8p
+	turn back to pump => 0
+	time += 30p
+
+stat 13: 3277
+	total = 3277
+	time += 8p
+
+
+time thu gom : 8*13 =104
+thoi gian gom tro ve : 30*3 = 90p
+tong thoi gian do ra = 194p
+chi phi lao dong va van chuyen: (194/60)*120,000 = 388,000
+chi phi tra cho bai rac : 57,000*3 = 171,000
+tong chi phi : 388,000 + 171,000 = 559,000
+
+194*120,000+ 171,000
+	
